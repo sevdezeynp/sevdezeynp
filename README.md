@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sevde Zeynep Sütçü</h1>
 <h3 align="center">Software Engineering Student</h3>
 
@@ -10,12 +10,12 @@ I am a Software Engineering student passionate about building desktop applicatio
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Interested in Java, Python, MySQL, and Data Structures
-- 🖥️ Developing desktop applications with Java Swing and CustomTkinter
-- 📊 Learning Data Analysis with Pandas
-- 🌱 Currently improving Backend Development and Software Architecture
-- 🤝 Open to internship opportunities and collaborative projects
+-  Software Engineering Student
+-  Interested in Java, Python, MySQL, and Data Structures
+-  Developing desktop applications with Java Swing and CustomTkinter
+-  Learning Data Analysis with Pandas
+-  Currently improving Backend Development and Software Architecture
+-  Open to internship opportunities and collaborative projects
 
 ---
 
