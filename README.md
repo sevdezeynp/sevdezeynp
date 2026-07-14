@@ -80,5 +80,5 @@ A Python project that analyzes the **Indian Liver Patient Dataset (ILPD)** using
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/sevdezeynp
-- Email: sevdezeynp@göail.com
+- Email: sevdezeynp@gmail.com
   
