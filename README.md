@@ -1,56 +1,84 @@
 ## Hi there 👋
-# Hi, I'm Sevde Zeynep Sütçü
+<h1 align="center">Hi 👋, I'm Sevde Zeynep Sütçü</h1>
+<h3 align="center">Software Engineering Student</h3>
 
-I am a Software Engineering student interested in developing structured, user-focused, and maintainable software applications.
+<p align="center">
+I am a Software Engineering student passionate about building desktop applications, designing efficient data structures, and analyzing data. I enjoy transforming theoretical concepts into real-world software projects while continuously improving my problem-solving and software development skills.
+</p>
 
-I work with Java and Python, focusing on object-oriented programming, data structures, desktop application development, database systems, and data analysis. I enjoy turning theoretical concepts into practical projects and continuously improving my technical skills.
+---
 
-## About Me
+## 👩‍💻 About Me
 
-- Software Engineering student
-- Interested in Java, Python, MySQL, data structures, and algorithms
-- Experienced in developing desktop applications with Java Swing and CustomTkinter
-- Currently improving my knowledge of backend development and data analysis
-- Open to internship opportunities and collaborative projects
+- 🎓 Software Engineering Student
+- 💻 Interested in Java, Python, MySQL, and Data Structures
+- 🖥️ Developing desktop applications with Java Swing and CustomTkinter
+- 📊 Learning Data Analysis with Pandas
+- 🌱 Currently improving Backend Development and Software Architecture
+- 🤝 Open to internship opportunities and collaborative projects
 
-## Languages and Tools
+---
 
-- Java
-- Python
-- MySQL
-- Java Swing
-- CustomTkinter
-- Pandas
-- Git and GitHub
-- NetBeans
-- PyCharm
+## 🛠️ Languages and Tools
 
-## Featured Projects
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,pycharm,idea" />
+</p>
 
-### Technical Service Management System
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/CustomTkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-A desktop management application developed with Python, CustomTkinter, and MySQL. The system manages users, repair records, appointments, payments, spare parts, notifications, and communication processes.
+---
 
-### Movie Recommendation System
+## 📂 Featured Projects
 
-A Java Swing application that generates movie recommendations using Heap-Based Collaborative Filtering, Cosine Similarity, and a custom Max Heap implementation.
+### 🔧 Technical Service Management System
 
-### Number Drop Game
+A desktop management application developed with **Python**, **CustomTkinter**, and **MySQL**. The system manages customers, repair records, appointments, payments, spare parts, and communication processes through a modern graphical interface.
 
-A Java Swing game developed using a custom Multi Linked List data structure. The project includes dynamic node connections, queue-based move management, and tile merging mechanics.
+**Technologies:** Python • CustomTkinter • MySQL
 
-### Indian Liver Disease Analysis
+---
 
-A Python data analysis project developed with Pandas using the Indian Liver Patient Dataset. The project focuses on data preprocessing, filtering, statistical analysis, and extracting meaningful information from medical data.
+### 🎬 Movie Recommendation System
 
-## Currently Learning
+A Java Swing application that generates personalized movie recommendations using **Heap-Based Collaborative Filtering**, **Cosine Similarity**, and a custom **Max Heap** implementation.
 
-- Backend development
-- Advanced Python
-- Database design
-- Data analysis
-- Software architecture
+**Technologies:** Java • Swing • Max Heap • Cosine Similarity
 
-## Contact
+---
 
-GitHub: [sevdezeynp](https://github.com/sevdezeynp)
+### 🎮 Number Drop Game
+
+A Java Swing game developed using a custom **Multi Linked List** data structure. The project demonstrates queue-based move management, dynamic node linking, and tile merging mechanics.
+
+**Technologies:** Java • Swing • Multi Linked List
+
+---
+
+### 📊 Indian Liver Disease Analysis
+
+A Python project that analyzes the **Indian Liver Patient Dataset (ILPD)** using **Pandas**. The project focuses on data preprocessing, filtering, statistical analysis, and extracting meaningful insights from medical data.
+
+**Technologies:** Python • Pandas • CSV
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sevdezeynp&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevdezeynp&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/sevdezeynp
+- Email: sevdezeynp@göail.com
+  
