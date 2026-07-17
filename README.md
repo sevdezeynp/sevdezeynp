@@ -10,12 +10,12 @@ I am a Software Engineering student passionate about building desktop applicatio
 
 ## 👩‍💻 About Me
 
--  Software Engineering Student
--  Interested in Java, Python, MySQL, and Data Structures
--  Developing desktop applications with Java Swing and CustomTkinter
--  Learning Data Analysis with Pandas
--  Currently improving Backend Development and Software Architecture
--  Open to internship opportunities and collaborative projects
+- Education: Third-year Software Engineering student
+- Programming Languages: Java, Python, and C
+- Technical Background: Object-Oriented Programming, Data Structures, Algorithms, Data Analysis, Database Systems, and Software Development
+- Current Experience: Machine Learning, Data Science, and AI Product Testing
+- Current Focus: Artificial Intelligence and Machine Learning
+- Interests: Machine Learning, Artificial Intelligence, Data Science, Recommendation Systems, and Data-Driven Software Systems
 
 ---
 
